@@ -13,10 +13,6 @@ API
 
 
 
-.. autofunction:: dummy.test_function
+.. autofunction:: dummy.test_function.create_random_seq
     :noindex:
     
-    .. autosummary::
-        :toctree: generated/
-
-        create_random_seq
