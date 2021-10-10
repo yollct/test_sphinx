@@ -32,7 +32,8 @@ release = '0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 root_doc = "index"
-extensions = ['sphinx.ext.autodoc','sphinx_rtd_theme']
+extensions = ['sphinx.ext.autodoc','sphinx_rtd_theme',
+'sphinx.ext.autosummary']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
