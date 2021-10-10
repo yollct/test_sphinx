@@ -3,3 +3,5 @@
 API
 ====
 
+.. autoclass:: sequence
+    :members:
