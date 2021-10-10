@@ -4,15 +4,13 @@ API
 ====
 
 
-.. autoclass:: dummy.test_class.sequence
-    :noindex:
-
-    .. autosummary::
-        :nosignatures:
-        :toctree: generated/
+.. autosummary:: dummy.test_class.sequence
+    :nosignatures:
+    :toctree: generated/
 
 
 
-.. autofunction:: dummy.test_function.create_random_seq
-    :noindex:
+.. autosummary:: dummy.test_function.create_random_seq
+    :nosignatures:
+    :toctree: generated/
     
