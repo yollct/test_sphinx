@@ -12,7 +12,7 @@ class sequence():
         """
         Convert sequence to complementary sequence
         """
-        nucleo = {"A":"T", "G":"C", "C","G", "T","A"}
+        nucleo = {"A":"T", "G":"C", "C":"G", "T":"A"}
 
         comseq = []
         for nu in self.seq:
