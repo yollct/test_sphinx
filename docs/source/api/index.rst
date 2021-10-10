@@ -12,3 +12,11 @@ API
         :toctree: generated/
 
         sequence
+
+.. autofunction:: dummy.test_function
+    :noindex:
+    
+    .. autosummary::
+        :toctree: generated/
+
+        create_random_seq
