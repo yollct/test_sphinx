@@ -13,7 +13,7 @@ API
         sequence
 
 
-.. autofunction:: dummy.test_functio
+.. autofunction:: dummy.test_function
     :noindex:
 
     .. autosummary:: 
