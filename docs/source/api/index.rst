@@ -4,5 +4,11 @@ API
 ====
 
 
-.. autoclass:: sequence
-    :members:
+.. autoclass:: dummy.test_class
+    :noindex:
+
+    .. autosummary::
+        :nosignatures:
+        :toctree: generated/
+
+        sequence
