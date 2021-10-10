@@ -1,5 +1,5 @@
 {{ fullname | escape | underline }}
 
 
-.. autoclass:: {{ objname }}
+.. autofunction:: {{ objname }}
    
