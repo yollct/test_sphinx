@@ -4,14 +4,14 @@ API
 ====
 
 
-.. autoclass:: dummy.test_class
+.. autoclass:: dummy.test_class.sequence
     :noindex:
 
     .. autosummary::
         :nosignatures:
         :toctree: generated/
 
-        sequence
+
 
 .. autofunction:: dummy.test_function
     :noindex:
